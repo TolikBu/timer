@@ -1,0 +1,19 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons__item {
+  padding: 10px 15px;
+  background-color: green;
+  outline: none;
+  border: none;
+  font-size: 24px;
+  color: aliceblue;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.buttons__item:not(:last-child) {
+  margin-right: 20px;
+}
