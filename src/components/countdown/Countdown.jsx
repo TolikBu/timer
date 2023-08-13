@@ -4,7 +4,7 @@ import bells from '/sound/bells.mp3';
 
 import Buttons from '../buttons/Buttons';
 
-import './countdown.css';
+import './Countdown.css';
 
 function Countdown() {
   const [min, setMinutes] = useState(0);

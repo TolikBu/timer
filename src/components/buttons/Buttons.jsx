@@ -1,4 +1,4 @@
-import './buttons.css';
+import './Buttons.css';
 
 function Buttons({ start, stop, reset }) {
   return (
