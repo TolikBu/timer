@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import useSound from 'use-sound';
 import bells from '/sound/bells.mp3';
 
-import Buttons from '../buttons/buttons';
+import Buttons from '../buttons/Buttons';
 
 import './Countdown.css';
 
